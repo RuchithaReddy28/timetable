@@ -59,7 +59,7 @@ Execute the program
 ![output](https://github.com/RuchithaReddy28/timetable/blob/main/logo.png?raw=true)
 ![output](https://github.com/RuchithaReddy28/timetable/blob/main/Screenshot%20(15).png)
 
-<PROGRAMM>
+
 <!DOCTYPE html>
 <html>
 
