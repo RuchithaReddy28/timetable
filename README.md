@@ -147,3 +147,5 @@ Execute the program
 ![output](https://github.com/RuchithaReddy28/timetable/blob/main/Screenshot%20(15).png)
 
 
+## Result
+The timetable is successfully excuted
